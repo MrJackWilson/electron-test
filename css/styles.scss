@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700');
+
+//Bootstrap overrides
+$font-family-sans-serif: 'Source Sans Pro';
+
+@import "node_modules/bootstrap/scss/bootstrap";
